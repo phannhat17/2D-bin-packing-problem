@@ -5,7 +5,9 @@ This is a mini-project for topic 3 in Fundamentals of Optimization course of SoI
 
 *Throughout our mini-project, some concepts are also being used instead of trucks (bins, cars) and packages (items)*
 
-The input data format and how we generated them can be found [here](./input_data/README.md) 
+The input data format and how we generated them can be found [here](./input_data/README.md)   
+
+Usage can be found [here](./USAGE.md)
 
 ## Our team
 | Name            | Studenn ID | Mail                          |
