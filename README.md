@@ -17,10 +17,7 @@ Usage can be found [here](./USAGE.md)
 | Do Quang Minh   | 20210579   | minh.dq210579@sis.hust.edu.vn |
 | Nguyen Huu Duan | 20214951   | duan.nh214951@sis.hust.edu.vn |  
 
-## Modeling the problem
-- CP model: Details are written in [this file](CP_model.pdf)
-- MIP model: Details are written in [this file](MIP_model.pdf)
-- Heuristic: Details are written in [this file](Heuristic.pdf)
+**Please refer to our [full report](./Report_FundamentalofOptimization_IT3052E.pdf) for a detailed description of our problem modeling process, data generation methods, results, and additional information.**
 
 ## Folder structure
 ```
