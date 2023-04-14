@@ -1,13 +1,5 @@
 # Multiple-type, two-dimensional finite bin packing problem
 This is a mini-project for topic 3 in Fundamentals of Optimization course of SoICT - HUST
-## Problem
-`K` trucks `1, 2, ..., K` are available for transporting `N` packages `1, 2, ..., N`. Each truck `k` has the container size of `Wk x Hk`. The dimensions of each package `i` are `wi x hi`. Packages that are placed in the same container must not overlap. Assume that the number K can be large, leading to a great number of trucks that are not being used. `Ck` represents the cost of using truck `k`. Find a solution that loads all the packages into those given trucks such that **the total cost of trucks used is minimal**.  
-
-*Throughout our mini-project, some concepts are also being used instead of trucks (bins, cars) and packages (items)*
-
-The input data format and how we generated them can be found [here](./input_data/README.md)   
-
-Usage can be found [here](./USAGE.md)
 
 ## Our team
 | Name            | Studenn ID | Mail                          |
@@ -18,6 +10,16 @@ Usage can be found [here](./USAGE.md)
 | Nguyen Huu Duan | 20214951   | duan.nh214951@sis.hust.edu.vn |  
 
 **Please refer to our [full report](./Report_FundamentalsofOptimization_IT3052E.pdf) for a detailed description of our problem modeling process, data generation methods, results, and additional information.**
+
+
+## Problem
+`K` trucks `1, 2, ..., K` are available for transporting `N` packages `1, 2, ..., N`. Each truck `k` has the container size of `Wk x Hk`. The dimensions of each package `i` are `wi x hi`. Packages that are placed in the same container must not overlap. Assume that the number K can be large, leading to a great number of trucks that are not being used. `Ck` represents the cost of using truck `k`. Find a solution that loads all the packages into those given trucks such that **the total cost of trucks used is minimal**.  
+
+*Throughout our mini-project, some concepts are also being used instead of trucks (bins, cars) and packages (items)*
+
+The input data format and how we generated them can be found [here](./input_data/README.md)   
+
+Usage can be found [here](./USAGE.md)
 
 ## Folder structure
 ```
