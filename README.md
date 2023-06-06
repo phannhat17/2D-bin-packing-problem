@@ -2,7 +2,7 @@
 This is a mini-project for topic 3 in Fundamentals of Optimization course of SoICT - HUST
 
 ## Our team
-| Name            | Studenn ID | Mail                          |
+| Name            | Student ID | Mail                          |
 |-----------------|------------|-------------------------------|
 | Chu Minh Ha     | 20210293   | ha.cm210293@sis.hust.edu.vn   |
 | Phan Dinh Nhat  | 20210654   | nhat.pd210654@sis.hust.edu.vn | 
